@@ -22,9 +22,6 @@
 /bin/
 /out/
 
-# VScode directories
-/.vscode
-
 # Debug files
 *.pdb
 
