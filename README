@@ -1,9 +1,0 @@
-# Actor Model
-
-This is a super simple way to implement an actor model in C++.
-The Engine can spawn and poison Actors, as well as send them messages.
-Actors can receive messages, although it does not do anything right now.
-
-Actors run on their own threads with jthread.
-
-make run to compile and run the program with flags and g++ 23.
