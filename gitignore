@@ -1,0 +1,32 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Dependency directories (e.g., if you use a package manager)
+/dependencies/
+/libs/
+/external/
+
+# Build directories
+/build/
+/bin/
+/out/
+
+# VScode directories
+/.vscode
+
+# Debug files
+*.pdb
+
+# System files
+.DS_Store
