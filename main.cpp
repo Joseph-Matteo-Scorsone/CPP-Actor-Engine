@@ -32,7 +32,7 @@ class Message {
         int sender; // The id for the actor that sent the message
         
         // Private _apply just returns success now
-        // Eventually this will be more complicated, so it's not a pure virual function
+        // Eventually this will be more complicated
         int _apply() {
             return EXIT_SUCCESS;
         }
